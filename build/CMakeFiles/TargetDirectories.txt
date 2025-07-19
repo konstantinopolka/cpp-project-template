@@ -1,0 +1,4 @@
+/home/sotnikov/projects/greedy/build/CMakeFiles/main.dir
+/home/sotnikov/projects/greedy/build/CMakeFiles/tests.dir
+/home/sotnikov/projects/greedy/build/CMakeFiles/edit_cache.dir
+/home/sotnikov/projects/greedy/build/CMakeFiles/rebuild_cache.dir
